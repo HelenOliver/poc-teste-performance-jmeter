@@ -1,23 +1,24 @@
-"# poc-teste-performance-jmeter"
-"# Estudo de teste de performance"
+poc-teste-performance-jmeter
 
-"# ***** Anotações JMeter *****"
+Estudo de teste de performance
 
-"# >> Estudar sobre groovy"
-"# Controlador Se (expressão)"
+***** Anotações JMeter *****
 
-"# ***** Página para Estudo *****"
-"# PS: Deve se ter bom senso nos testes"
-"# para não causar problema para os demais"
-"# que utilizam a página para estudo"
+>> Estudar sobre groovy"
+Controlador Se (expressão)"
 
-"# automationpractice.com"
+***** Página para Estudo *****"
+PS: Deve se ter bom senso nos testes para não causar problema para os demais
+que utilizam a página para estudo
 
-"# ***** Usuários para teste *****"
-"# curso_teste_1@gmail.com"
-"# curso_teste_2@gmail.com"
-"# curso_teste_3@gmail.com"
-"# curso_teste_4@gmail.com"
-"# curso_teste_5@gmail.com"
+automationpractice.com"
 
-"# abc.123"
+***** Usuários para teste *****
+
+curso_teste_1@gmail.com
+curso_teste_2@gmail.com
+curso_teste_3@gmail.com
+curso_teste_4@gmail.com
+curso_teste_5@gmail.com
+
+abc.123
